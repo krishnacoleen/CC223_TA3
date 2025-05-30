@@ -9,7 +9,7 @@ An AI-powered chatbot that helps students get instant answers from the TUP Manil
 
 - 💻 **Frontend**: React
 - 🌐 **Backend**: Node.js + Express
-- 🧠 **AI API**: OpenRouter (GPT-3.5 / Mistral)
+- 🧠 **AI API**: OpenRouter (GPT-3.5-turbo)
 - ☁️ **Database**: Firebase Firestore
 - 🚀 **Hosting**:  
   - Backend: Render  
